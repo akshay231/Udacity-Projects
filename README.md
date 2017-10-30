@@ -15,3 +15,4 @@ The Device Emulation interface changed a bit with the newer version of Chrome De
 8.	Select and hold down on the reload icon until the context menu appears and select Clear Cache and Hard Reload.
 
 
+The result of the step 1 is in png uploaded : udacity.github.io-RWDF-samples-quizzes-custom-device-quiz.html(Udacity)
